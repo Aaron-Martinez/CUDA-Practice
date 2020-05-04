@@ -17,5 +17,6 @@ using std::string;
 
 
 void addComparison(int blockSize);
+void matrixMultiplyComparison();
 
 #endif
